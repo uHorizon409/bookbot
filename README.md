@@ -1,2 +1,3 @@
 # bookbot
-A bookbot project that checks word count for txt
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
